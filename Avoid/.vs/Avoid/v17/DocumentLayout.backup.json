@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UnityProject\\Avoid\\Avoid\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7E41FA-3640-4D75-D7A2-1383259663FB}|Assembly-CSharp.csproj|d:\\unityproject\\avoid\\avoid\\assets\\avoid\\scripts\\player\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC7E41FA-3640-4D75-D7A2-1383259663FB}|Assembly-CSharp.csproj|solutionrelative:assets\\avoid\\scripts\\player\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7E41FA-3640-4D75-D7A2-1383259663FB}|Assembly-CSharp.csproj|D:\\UnityProject\\Avoid\\Avoid\\assets\\avoid\\scripts\\player\\ondeath\\playerdeathinteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC7E41FA-3640-4D75-D7A2-1383259663FB}|Assembly-CSharp.csproj|solutionrelative:assets\\avoid\\scripts\\player\\ondeath\\playerdeathinteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7E41FA-3640-4D75-D7A2-1383259663FB}|Assembly-CSharp.csproj|D:\\UnityProject\\Avoid\\Avoid\\assets\\avoid\\scripts\\player\\interact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC7E41FA-3640-4D75-D7A2-1383259663FB}|Assembly-CSharp.csproj|solutionrelative:assets\\avoid\\scripts\\player\\interact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7E41FA-3640-4D75-D7A2-1383259663FB}|Assembly-CSharp.csproj|D:\\UnityProject\\Avoid\\Avoid\\assets\\avoid\\scripts\\obstacles\\scale\\scaletoscreensize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC7E41FA-3640-4D75-D7A2-1383259663FB}|Assembly-CSharp.csproj|solutionrelative:assets\\avoid\\scripts\\obstacles\\scale\\scaletoscreensize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7E41FA-3640-4D75-D7A2-1383259663FB}|Assembly-CSharp.csproj|D:\\UnityProject\\Avoid\\Avoid\\assets\\avoid\\scripts\\points\\interactable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC7E41FA-3640-4D75-D7A2-1383259663FB}|Assembly-CSharp.csproj|solutionrelative:assets\\avoid\\scripts\\points\\interactable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7E41FA-3640-4D75-D7A2-1383259663FB}|Assembly-CSharp.csproj|D:\\UnityProject\\Avoid\\Avoid\\assets\\avoid\\scripts\\ui\\gamestatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC7E41FA-3640-4D75-D7A2-1383259663FB}|Assembly-CSharp.csproj|solutionrelative:assets\\avoid\\scripts\\ui\\gamestatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7E41FA-3640-4D75-D7A2-1383259663FB}|Assembly-CSharp.csproj|D:\\UnityProject\\Avoid\\Avoid\\assets\\avoid\\scripts\\points\\incrementscoreinteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC7E41FA-3640-4D75-D7A2-1383259663FB}|Assembly-CSharp.csproj|solutionrelative:assets\\avoid\\scripts\\points\\incrementscoreinteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Interactable.cs",
+              "DocumentMoniker": "D:\\UnityProject\\Avoid\\Avoid\\Assets\\Avoid\\Scripts\\Points\\Interactable.cs",
+              "RelativeDocumentMoniker": "Assets\\Avoid\\Scripts\\Points\\Interactable.cs",
+              "ToolTip": "D:\\UnityProject\\Avoid\\Avoid\\Assets\\Avoid\\Scripts\\Points\\Interactable.cs",
+              "RelativeToolTip": "Assets\\Avoid\\Scripts\\Points\\Interactable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T05:04:44.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameStateController.cs",
+              "DocumentMoniker": "D:\\UnityProject\\Avoid\\Avoid\\Assets\\Avoid\\Scripts\\UI\\GameStateController.cs",
+              "RelativeDocumentMoniker": "Assets\\Avoid\\Scripts\\UI\\GameStateController.cs",
+              "ToolTip": "D:\\UnityProject\\Avoid\\Avoid\\Assets\\Avoid\\Scripts\\UI\\GameStateController.cs",
+              "RelativeToolTip": "Assets\\Avoid\\Scripts\\UI\\GameStateController.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAFsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T04:52:27.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IncrementScoreInteractable.cs",
+              "DocumentMoniker": "D:\\UnityProject\\Avoid\\Avoid\\Assets\\Avoid\\Scripts\\Points\\IncrementScoreInteractable.cs",
+              "RelativeDocumentMoniker": "Assets\\Avoid\\Scripts\\Points\\IncrementScoreInteractable.cs",
+              "ToolTip": "D:\\UnityProject\\Avoid\\Avoid\\Assets\\Avoid\\Scripts\\Points\\IncrementScoreInteractable.cs",
+              "RelativeToolTip": "Assets\\Avoid\\Scripts\\Points\\IncrementScoreInteractable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T04:46:55.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Interact.cs",
+              "DocumentMoniker": "D:\\UnityProject\\Avoid\\Avoid\\Assets\\Avoid\\Scripts\\Player\\Interact.cs",
+              "RelativeDocumentMoniker": "Assets\\Avoid\\Scripts\\Player\\Interact.cs",
+              "ToolTip": "D:\\UnityProject\\Avoid\\Avoid\\Assets\\Avoid\\Scripts\\Player\\Interact.cs",
+              "RelativeToolTip": "Assets\\Avoid\\Scripts\\Player\\Interact.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAewBIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T04:45:41.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerDeathInteractable.cs",
+              "DocumentMoniker": "D:\\UnityProject\\Avoid\\Avoid\\Assets\\Avoid\\Scripts\\Player\\OnDeath\\PlayerDeathInteractable.cs",
+              "RelativeDocumentMoniker": "Assets\\Avoid\\Scripts\\Player\\OnDeath\\PlayerDeathInteractable.cs",
+              "ToolTip": "D:\\UnityProject\\Avoid\\Avoid\\Assets\\Avoid\\Scripts\\Player\\OnDeath\\PlayerDeathInteractable.cs",
+              "RelativeToolTip": "Assets\\Avoid\\Scripts\\Player\\OnDeath\\PlayerDeathInteractable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T04:45:22.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ScaleToScreenSize.cs",
+              "DocumentMoniker": "D:\\UnityProject\\Avoid\\Avoid\\Assets\\Avoid\\Scripts\\Obstacles\\Scale\\ScaleToScreenSize.cs",
+              "RelativeDocumentMoniker": "Assets\\Avoid\\Scripts\\Obstacles\\Scale\\ScaleToScreenSize.cs",
+              "ToolTip": "D:\\UnityProject\\Avoid\\Avoid\\Assets\\Avoid\\Scripts\\Obstacles\\Scale\\ScaleToScreenSize.cs",
+              "RelativeToolTip": "Assets\\Avoid\\Scripts\\Obstacles\\Scale\\ScaleToScreenSize.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAUwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T04:44:31.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerHealth.cs",
+              "DocumentMoniker": "D:\\UnityProject\\Avoid\\Avoid\\Assets\\Avoid\\Scripts\\Player\\PlayerHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\Avoid\\Scripts\\Player\\PlayerHealth.cs",
+              "ToolTip": "D:\\UnityProject\\Avoid\\Avoid\\Assets\\Avoid\\Scripts\\Player\\PlayerHealth.cs",
+              "RelativeToolTip": "Assets\\Avoid\\Scripts\\Player\\PlayerHealth.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAjwE0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T04:41:58.864Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
